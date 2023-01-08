@@ -8,7 +8,7 @@
               ピカチュウ
             </div>
             <div class="info__upper--level">
-              Lv 5
+              Lv.5
             </div>
           </div>
           <div class="info__lower">
@@ -31,7 +31,7 @@
               あなた
             </div>
             <div class="info__upper--level">
-              Lv 50
+              Lv.50
             </div>
           </div>
           <div class="info__lower">

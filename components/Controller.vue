@@ -1,7 +1,7 @@
 <template>
   <div class="controller">
     <div class="controller__logo">
-      Twitter Monster
+      Tweet Monster <i class="fa-brands fa-twitter"></i>
     </div>
     <div class="controller__wrapper">
       <div class="controller__cross-key">
@@ -51,7 +51,6 @@ export default {
 .controller__cross-key {
   height: 84px;
   width: 84px;
-  background: gray;
 }
 .controller__cross-key--parts {
   height: 28px;
@@ -61,6 +60,7 @@ export default {
 .controller__cross-key--part {
   height: 28px;
   width: 28px;
+  background: gray;
 }
 .no-function {
   background: lightgray;
